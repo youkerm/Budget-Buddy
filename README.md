@@ -7,7 +7,7 @@ A web app designed to help budget your money.
 Requires PHP 5.5 and PHPMyAdmin (MYSQL)
 
 Unpack files into the root directory of your webserver.
-Import the SQL query file via the PHPMyAdmin interface.
+Import the SQL query file (budgetdash.sql) via the PHPMyAdmin Import interface.
 
 ### Development
 
